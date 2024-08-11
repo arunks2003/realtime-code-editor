@@ -64,7 +64,7 @@ You can try a live demo of the editor [here](#).
 
 4. **Access the Editor**
 
-    Open your browser and navigate to `http://localhost:3000` to access the editor.
+    Open your browser and navigate to `http://localhost:5000` to access the editor.
 
 ## Usage
 
